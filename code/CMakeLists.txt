@@ -17,6 +17,7 @@ set(INCLUDE_DIRS
 #################
 
 set(LIB_FILES
+        lib/timecodes.cpp
         lib/timedecoder.cpp
         )
 
