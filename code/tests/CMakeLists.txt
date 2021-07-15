@@ -12,6 +12,7 @@ add_subdirectory(googletest)
 
 set(TEST_FILES
         unittests/unit_tests.cpp
+        unittests/timedecoder_tests.cpp
         )
 
 ###############################
